@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{486A9664-CEE0-49F5-AF28-8765FCE70E6E}|Thi1\\Thi1.csproj|c:\\users\\hp\\desktop\\fpt polytechnic\\net107\\thi1\\thi1\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486A9664-CEE0-49F5-AF28-8765FCE70E6E}|Thi1\\Thi1.csproj|solutionrelative:thi1\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486A9664-CEE0-49F5-AF28-8765FCE70E6E}|Thi1\\Thi1.csproj|c:\\users\\hp\\desktop\\fpt polytechnic\\net107\\thi1\\thi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486A9664-CEE0-49F5-AF28-8765FCE70E6E}|Thi1\\Thi1.csproj|solutionrelative:thi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486A9664-CEE0-49F5-AF28-8765FCE70E6E}|Thi1\\Thi1.csproj|c:\\users\\hp\\desktop\\fpt polytechnic\\net107\\thi1\\thi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{486A9664-CEE0-49F5-AF28-8765FCE70E6E}|Thi1\\Thi1.csproj|solutionrelative:thi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486A9664-CEE0-49F5-AF28-8765FCE70E6E}|Thi1\\Thi1.csproj|c:\\users\\hp\\desktop\\fpt polytechnic\\net107\\thi1\\thi1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486A9664-CEE0-49F5-AF28-8765FCE70E6E}|Thi1\\Thi1.csproj|solutionrelative:thi1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486A9664-CEE0-49F5-AF28-8765FCE70E6E}|Thi1\\Thi1.csproj|c:\\users\\hp\\desktop\\fpt polytechnic\\net107\\thi1\\thi1\\models\\cateory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486A9664-CEE0-49F5-AF28-8765FCE70E6E}|Thi1\\Thi1.csproj|solutionrelative:thi1\\models\\cateory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Thi1\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\Models\\Books.cs",
+              "RelativeToolTip": "Thi1\\Models\\Books.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:46:12.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Thi1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "Thi1\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:43:09.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cateory.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\Models\\Cateory.cs",
+              "RelativeDocumentMoniker": "Thi1\\Models\\Cateory.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\Models\\Cateory.cs*",
+              "RelativeToolTip": "Thi1\\Models\\Cateory.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:40:21.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\appsettings.json",
+              "RelativeDocumentMoniker": "Thi1\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\appsettings.json*",
+              "RelativeToolTip": "Thi1\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T00:34:55.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\Program.cs",
+              "RelativeDocumentMoniker": "Thi1\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\Program.cs",
+              "RelativeToolTip": "Thi1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:34:49.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

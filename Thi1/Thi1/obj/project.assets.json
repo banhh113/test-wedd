@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\Thi1.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\test-wedd\\Thi1\\Thi1\\Thi1.csproj",
       "projectName": "Thi1",
-      "projectPath": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\Thi1.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\test-wedd\\Thi1\\Thi1\\Thi1.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\NET107\\Thi1\\Thi1\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\FPT Polytechnic\\test-wedd\\Thi1\\Thi1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
