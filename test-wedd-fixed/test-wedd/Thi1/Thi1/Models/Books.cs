@@ -1,9 +1,11 @@
 namespace Thi1.Models
 {
-    public class ErrorViewModel
+    public class Books
     {
-        public string? RequestId { get; set; }
+        public int Id { get; set; }
 
-        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+        public string Name { get; set; }
+
+        public string Author { get; set; }
     }
 }
